@@ -5,4 +5,4 @@
 
 ##
 1. self/zipFolder.bat
-  | Windows下使用7zip命令行压缩文件夹（zip）， 支持过滤指定目录
+   - Windows下使用7zip命令行压缩文件夹（zip）， 支持过滤指定目录
